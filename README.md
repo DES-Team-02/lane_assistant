@@ -1,7 +1,7 @@
-# car_control
-PiRacer Drivetrain Control with CommonAPI | Submodule for Yocto Image | SEA:ME DES
+# lane_assistance
+lane_assistance that can control the Piracer's Drivetrain Control with CommonAPI Services | SEA:ME DES & ADS
 <br>
 ## Description
-Reads Gamepad input and sets steering and throttle to PiRacer instance. <br>
-Reads Gear Selection from CommonAPI sercive and sets gear to drivetrain. <br>
-Check [project main repository](https://github.com/Lagavulin9/DES_Head-Unit) for more information. 
+
+!!! ATTETION !!! IMPORTED FROM CAR_CONTROL AS TEMPLATE !!! <br>
+NEEDS TO BE ADJUSTED TO LANE ASSISTANCE !!!

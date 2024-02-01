@@ -1,12 +1,12 @@
-#include "CarControlStubImpl.hpp"
+#include "LaneAssistanceStubImpl.hpp"
 
-CarControlStubImpl::CarControlStubImpl() {
+LaneAssistanceStubImpl::LaneAssistanceStubImpl() {
 }
 
-CarControlStubImpl::~CarControlStubImpl() {
+LaneAssistanceStubImpl::~LaneAssistanceStubImpl() {
 }
 /*Method that can be invoked by client */
-void CarControlStubImpl::gearSelectionHeadUnit(const std::shared_ptr<CommonAPI::ClientId> _client, 
+void LaneAssistanceStubImpl::gearSelectionHeadUnit(const std::shared_ptr<CommonAPI::ClientId> _client, 
                                                std::string _selectedGear, 
                                                gearSelectionHeadUnitReply_t _reply)
 {
