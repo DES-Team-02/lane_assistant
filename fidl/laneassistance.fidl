@@ -3,5 +3,5 @@ package commonapi
 interface LaneAssistance {
     version { major 0 minor 1 }
     attribute String steering readonly
-    attribute String throttl readonly
+    attribute String throttle readonly
 }
