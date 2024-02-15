@@ -1,0 +1,8 @@
+{
+    "commonapi.LaneAssistance" : {
+        "service_id": 7000,
+        "instances" : {
+            "commonapi.LaneAssistance": 7001
+        }
+    }
+}
