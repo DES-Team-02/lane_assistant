@@ -1,7 +1,7 @@
 import "platform:/plugin/org.genivi.commonapi.someip/deployment/CommonAPI-4-SOMEIP_deployment_spec.fdepl"
 import "laneassistance.fidl"
 
-define org.genivi.commonapi.someip.deployment for interface commonapi.LaneAssistance4 {
+define org.genivi.commonapi.someip.deployment for interface commonapi.LaneAssistance {
     SomeIpServiceID = 7000
     attribute steering {
         SomeIpNotifierEventGroups = { 7100 }
